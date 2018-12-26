@@ -1,2 +1,3 @@
 # hello-world
 I am creating this repository as an initial starting point to coding. Also plan on using R later down the line.
+I got interested in GitHub primarily because I want to dabble in a bit of engineering. Not sure how long I will be doing this for but I feel it is definitely a useful skill to have. I also like Rick and Morty atm. I found isntructions on how to construct the portal gun and the instructions on how to build it were here and I figured why not try it out and actually understand it a bit more since I hear about it so much. I am excited to see what I will be able to create and what I will learn along the way. This will allow me to get a bit of a preview with what I can expect when I learn the R language. I'm King Flippy Nips.
